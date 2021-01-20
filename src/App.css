@@ -15,7 +15,12 @@ body, #root {
 }
 
 h1 {
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
   margin: 20px 0 0;
+}
+p {
+  font-style: italic;
 }
 
 .game-container {

@@ -19,7 +19,7 @@ if (addword){
       words.push(newentry);
       console.log(words);
 } else {
-  alert("You be playing with pre-configuted words")
+  alert("You will be playing with pre-configuted words")
 }
 
 
